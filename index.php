@@ -32,7 +32,7 @@
                         "Truk", "Motor", "Mobil"
                     ];                    
                     // Menyortir data array secara ascending berdasarkan nilai dengan fugsi asort
-                    ksort($jenis_kendaraan);
+                    asort($jenis_kendaraan);
 
 					// Membuat perulangan foreach jenis kendaraan dengan tipe input radio button
                     foreach ($jenis_kendaraan as $jenis) {
