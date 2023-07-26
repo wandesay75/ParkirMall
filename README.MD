@@ -1,8 +1,11 @@
 **BIODATA**
 
 Nama Lengkap : Alvin Austin
+
 Kode Kelas   : JWD-D
+
 Status       : Mahasiswa
+
 Umur         : 20 Tahun
 
 
