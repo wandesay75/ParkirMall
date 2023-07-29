@@ -1,9 +1,9 @@
 {
     "plat": "N 8438 EL",
-    "kendaraan": "Motor",
-    "masuk": "15",
-    "keluar": "4",
-    "durasi": -11,
+    "kendaraan": "Mobil",
+    "masuk": "5",
+    "keluar": "1",
+    "durasi": -4,
     "member": "Non-Member",
     "biaya_parkir": -10000,
     "biaya_akhir": -10000

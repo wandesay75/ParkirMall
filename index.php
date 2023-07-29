@@ -54,7 +54,7 @@
                     <?php
 					// Melakukan perulangan for dengan variable i untuk memasukkan jam keluar pada parkir mall
                     for ($i = 1; $i <= 24; $i++) {
-                        echo '<option value="'.$i.'">jam '.$i.'</option>';
+                        echo '<option value="'.$i.'">'.$i.':00</option>';
                     }
                     ?>
 
@@ -73,7 +73,7 @@
                     <?php
 					// Melakukan perulangan for dengan variable i untuk memasukkan jam keluar pada parkir mall
                     for ($i = 1; $i <= 24; $i++) {
-                        echo '<option value="'.$i.'">jam '.$i.'</option>';
+                        echo '<option value="'.$i.'">'.$i.':00</option>';
                     }
                     ?>
 
